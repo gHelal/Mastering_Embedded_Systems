@@ -1,2 +1,2 @@
-First assignment (first push)!
+First assignment!
 :)
